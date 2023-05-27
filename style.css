@@ -700,6 +700,7 @@ p {
 	/* End header */
 
 	#services .service-bottom .service-item {
+		height: 445px;
 		flex-basis: 22%;
 		margin: 1.5%;
 	}
